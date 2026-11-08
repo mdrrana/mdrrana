@@ -29,3 +29,7 @@
 * 💼 **ISP Automation:** [fibernox.com](https://fibernox.com)
 * 📨 **Enterprise Messaging:** [smsbd.asia](https://smsbd.asia)
 * 📧 **Direct Inquiries:** mdrrana@gmail.com
+
+
+---
+<p align="center">Maintained by <b><a href="https://mdrrana.dev">mdrrana.dev</a></b> & <a href="https://fibernox.com">FiberNox Engineering</a>.</p>
